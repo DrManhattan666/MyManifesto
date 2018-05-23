@@ -1,16 +1,16 @@
-s = """Mi Manifiesto
+s = """My own Zen, by me 
 
-1. Ornhgvshy vf orggre guna htyl.
-2. Rkcyvpvg vf orggre guna vzcyvpvg.
-3. Fvzcyr vf orggre guna pbzcyrk.
-4. Pbzcyrk vf orggre guna pbzcyvpngrq.
-5. Syng vf orggre guna arfgrq.
-6. Fcnefr vf orggre guna qrafr.
-7. Ernqnovyvgl pbhagf.
-8. Fcrpvny pnfrf nera'g fcrpvny rabhtu gb oernx gur ehyrf.
-9. Nygubhtu cenpgvpnyvgl orngf chevgl.
-10. Reebef fubhyq arire cnff fvyragyl.
-11. ¡Sigue programando!.
+1. No aprendas, aprehende.
+2. Que tu conocimiento no dependa de nadie más que de ti.
+3. Equivócate mil veces si es necesario, pero mejora siempre después de fallar.
+4. Tener miedo es normal, enfrentarlo es obligatorio.
+5. Busca subir a hombros de gigantes.
+6. Recuerda disfrutar cualquier parte de la vida que estés viviendo.
+7. Da tu mejor cara a la peor de las situaciones.
+8. Sé luz en la oscuridad.
+9. Roba tantas sonrisas como puedas. 
+10. Se considerado contigo mismo.
+11. ¡Sigue programando!
 
 Por (y para) Elias,
 CaptainCisco (PyPI & TestPyPI)
